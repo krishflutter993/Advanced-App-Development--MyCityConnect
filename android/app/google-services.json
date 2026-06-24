@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "681691341794",
+    "project_id": "myapp-b8bfe",
+    "storage_bucket": "myapp-b8bfe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681691341794:android:dea1395f66712f07b64fbb",
+        "android_client_info": {
+          "package_name": "com.example.accounts_information_handler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681691341794-goqkndi8cev9fgit4kcd7lkg9k425ma3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKPM5LTDPShoRxc5SoxftXrv63Ttb-_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681691341794-goqkndi8cev9fgit4kcd7lkg9k425ma3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681691341794:android:ce53829148497094b64fbb",
+        "android_client_info": {
+          "package_name": "com.example.firebas2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681691341794-1k1k4j47r1o8no08lu6j1jqdgom519g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebas2",
+            "certificate_hash": "099e64910c2adef7085ed17503ac2fbfcf331fa3"
+          }
+        },
+        {
+          "client_id": "681691341794-goqkndi8cev9fgit4kcd7lkg9k425ma3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKPM5LTDPShoRxc5SoxftXrv63Ttb-_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681691341794-goqkndi8cev9fgit4kcd7lkg9k425ma3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681691341794:android:627ae84934cc94adb64fbb",
+        "android_client_info": {
+          "package_name": "com.example.mycityconnect1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681691341794-goqkndi8cev9fgit4kcd7lkg9k425ma3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKPM5LTDPShoRxc5SoxftXrv63Ttb-_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681691341794-goqkndi8cev9fgit4kcd7lkg9k425ma3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681691341794:android:02720c9ac6d46a5cb64fbb",
+        "android_client_info": {
+          "package_name": "com.example.whatsapptatussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681691341794-lg3omqqoug94bci0q37pu1bu5r7agsqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapptatussaver",
+            "certificate_hash": "099e64910c2adef7085ed17503ac2fbfcf331fa3"
+          }
+        },
+        {
+          "client_id": "681691341794-goqkndi8cev9fgit4kcd7lkg9k425ma3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKPM5LTDPShoRxc5SoxftXrv63Ttb-_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681691341794-goqkndi8cev9fgit4kcd7lkg9k425ma3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
