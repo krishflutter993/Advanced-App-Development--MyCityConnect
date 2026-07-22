@@ -67,6 +67,19 @@ lib/
 
 ---
 
+## 📥 Download APK
+
+Pre-compiled, architecture-specific release binaries are available for direct download below:
+
+| Architecture | Description | Download |
+| :--- | :--- | :---: |
+| 📱 **ARM64** | Optimized for modern 64-bit devices (most current phones). | [📥 Download APK](https://github.com/krishflutter993/Advanced-App-Development--MyCityConnect/releases/latest/download/app-arm64-v8a-release.apk) |
+| 📱 **ARMv7** | Compatible with older 32-bit Android smartphones. | [📥 Download APK](https://github.com/krishflutter993/Advanced-App-Development--MyCityConnect/releases/latest/download/app-armeabi-v7a-release.apk) |
+| 💻 **x86_64** | Tailored for emulator runs and x86_64 compatible architectures. | [📥 Download APK](https://github.com/krishflutter993/Advanced-App-Development--MyCityConnect/releases/latest/download/app-x86_64-release.apk)|
+| 🍎 **iOS IPA** | Installable iOS application package for testing and distribution. | [📥 Download IPA](https://github.com/krishflutter993/Advanced-App-Development--MyCityConnect/releases/latest/download/app.ipa) |
+
+
+---
 ## 🚀 Getting Started
 
 Follow these steps to run the application locally on your machine:
